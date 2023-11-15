@@ -67,4 +67,4 @@ En loop() se ejecuta repetidamente:
 
 Al cargar el código en Arduino, se puede abrir el monitor serial a 9600 baudios para visualizar los valores de temperatura y humedad actualizándose cada 500ms.
 
-Espero esta explicación te ayude a entender el funcionamiento básico del código para utilizar el sensor DHT22. ¡Avísame si tienes alguna otra duda!
+Espero Te Sirva HDP jajajjaa 
